@@ -1552,6 +1552,21 @@
         }
     },
     {
+        "key": "py_妲己视频",
+        "name": "🔞🅿️妲己视频｜py",
+        "type": 3,
+        "api": "./py/妲己视频.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "style": {
+            "type": "rect",
+            "ratio": 1.33
+        },
+        "timeout": 120
+    },
+    {
         "key": "py_黑料不打烊",
         "name": "🔞🅿️黑料不打烊｜py",
         "type": 3,
