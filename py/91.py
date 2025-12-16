@@ -15,7 +15,7 @@ class Spider(Spider):
     def destroy(self):
         pass
 
-    host='https://91-short.com'
+    host='https://down.nigx.cn/91-short.com'
 
     headers = {
         'accept': 'application/json, text/plain, */*',
