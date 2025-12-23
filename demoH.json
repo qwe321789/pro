@@ -1594,10 +1594,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "site": "https://missav.ai",
             "cfgo": "./js/cf-proxy-linux-arm64",
@@ -1617,11 +1613,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        }
+        "timeout": 120
     },
     {
         "key": "py_香蕉视频",
@@ -1632,11 +1624,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        }
+        "timeout": 120
     },
     {
         "key": "py_黄色仓库",
@@ -1647,11 +1635,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        }
+        "timeout": 120
     },
     {
         "key": "py_果冻",
@@ -1662,11 +1646,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        }
+        "timeout": 120
     },
     {
         "key": "py_玩具社区",
@@ -1677,10 +1657,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1692,11 +1668,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        }
+        "timeout": 120
     },
     {
         "key": "py_妲己视频",
@@ -1707,10 +1679,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1722,10 +1690,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1737,10 +1701,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1752,10 +1712,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1767,10 +1723,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1782,10 +1734,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1797,10 +1745,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1812,11 +1756,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        }
+        "timeout": 120
     },
     {
         "key": "py_神秘影院",
@@ -1827,11 +1767,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        }
+        "timeout": 120
     },
     {
         "key": "py_51吃瓜",
@@ -1843,10 +1779,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "http": "http://127.0.0.1:20172",
             "https": "http://127.0.0.1:20172"
@@ -1862,10 +1794,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "proxy": {},
             "plp": ""
@@ -1881,10 +1809,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "http": "http://127.0.0.1:20172",
             "https": "http://127.0.0.1:20172"
@@ -1899,10 +1823,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1914,10 +1834,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1929,10 +1845,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1944,10 +1856,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1959,10 +1867,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1974,10 +1878,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -1990,10 +1890,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "http": "http://127.0.0.1:20172",
             "https": "http://127.0.0.1:20172"
@@ -2009,10 +1905,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "http": "http://127.0.0.1:20172",
             "https": "http://127.0.0.1:20172"
@@ -2028,10 +1920,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": "./js/JAVXX.js"
     },
     {
@@ -2044,10 +1932,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": "./js/含羞草.js"
     },
     {
@@ -2061,10 +1945,6 @@
         "filterable": 1,
         "timeout": 120,
         "order_num": 0,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": "./js/绿色仓库.js"
     },
     {
@@ -2077,10 +1957,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": "./js/91MD.js"
     },
     {
@@ -2093,10 +1969,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": "./js/91pron.js"
     },
     {
@@ -2109,10 +1981,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": "./js/NiceAV.js"
     },
     {
@@ -2136,10 +2004,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "timeout": 120,
-        "style": {
-            "type": "list"
-        }
+        "timeout": 120
     },
     {
         "key": "http://96cctv.com-http://cctv12306.com",
@@ -2152,10 +2017,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "请求头": "手机",
             "免嗅探": "开",
@@ -2228,10 +2089,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2243,10 +2100,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2258,10 +2111,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2273,10 +2122,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2288,11 +2133,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        }
+        "timeout": 120
     },
     {
         "key": "http://laosebizy.com",
@@ -2303,10 +2144,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2318,11 +2155,7 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        }
+        "timeout": 120
     },
     {
         "key": "https://www.avdg.xyz",
@@ -2335,10 +2168,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "作者": "",
             "编码": "UTF-8",
@@ -2369,10 +2198,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "主页url": "https://i25gflwenwkr.nyouzzs8.top/",
             "数组": "",
@@ -2398,10 +2223,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "请求头": "手机",
             "站名": "比卡比卡",
@@ -2429,10 +2250,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2444,10 +2261,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2459,10 +2272,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2474,10 +2283,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2489,10 +2294,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2506,10 +2307,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "发布页": "https://helpfindgoodsite.com/",
             "主页url": "https://jise7.com//",
@@ -2530,10 +2327,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "请求头": "User-Agent$MOBILE_UA",
             "主页url": "https://fyu.lmt4.monster/cn/home/web/",
@@ -2562,10 +2355,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "请求头": "User-Agent$MOBILE_UA",
             "主页url": "https://zvz.gdpjb8.work/cn/home/web/",
@@ -2595,10 +2384,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "请求头": "User-Agent$MOBILE_UA",
             "主页url": "https://kcd.bxc7.one/cn/home/web/",
@@ -2627,10 +2412,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "请求头": "User-Agent$MOBILE_UA",
             "主页url": "https://djtzph.flsp8.cyou/cn/",
@@ -2660,10 +2441,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "请求头": "User-Agent$MOBILE_UA",
             "主页url": "https://fyu.lmt4.monster/cn/home/web/",
@@ -2689,10 +2466,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "请求头": "User-Agent$MOBILE_UA",
             "主页url": "https://zvz.gdpjb8.work/cn/home/web/",
@@ -2718,10 +2491,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "请求头": "User-Agent$MOBILE_UA",
             "主页url": "https://kcd.bxc7.one/cn/home/web/",
@@ -2747,10 +2516,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "请求头": "User-Agent$MOBILE_UA",
             "主页url": "https://djtzph.flsp8.cyou/cn/home/web/",
@@ -2775,10 +2540,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2790,10 +2551,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2805,10 +2562,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2820,10 +2573,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2835,10 +2584,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2850,10 +2595,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2865,10 +2606,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2880,10 +2617,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2898,10 +2631,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2914,10 +2643,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2929,10 +2654,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2944,10 +2665,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2959,10 +2676,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2974,10 +2687,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -2989,10 +2698,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -3004,10 +2709,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -3019,10 +2720,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -3034,10 +2731,6 @@
         "quickSearch": 1,
         "changeable": 1,
         "filterable": 1,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "timeout": 120
     },
     {
@@ -3051,10 +2744,6 @@
         "changeable": 1,
         "filterable": 1,
         "timeout": 120,
-        "style": {
-            "type": "rect",
-            "ratio": 1.33
-        },
         "ext": {
             "作者": "Aries",
             "站名": "51吃瓜轻量版",
