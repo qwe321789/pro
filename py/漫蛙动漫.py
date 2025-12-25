@@ -44,7 +44,6 @@ class Spider(Spider):
                 "vod_remarks": remark[0] if remark else ""
             })
         
-        # 获取总页数
         page_info = root.xpath('//li[@class="active"]/span[@class="num"]/text()')
         total = int(page_info[0].split('/')[1]) if page_info else 999
         
@@ -61,18 +60,14 @@ class Spider(Spider):
         rsp = self.fetch(url, headers=self.header)
         root = self.html(rsp.text)
         
-        # 基本信息
         title = root.xpath('//h3[@class="title"]/text()')[0]
         cover = root.xpath('//img[@class="img-responsive"]/@src')[0]
         
-        # 详细信息
         info_text = root.xpath('//p[@class="data"]/text()')
         info = {k.strip():v.strip() for k,v in (item.split(':',1) for item in info_text if ':' in item)}
         
-        # 剧情介绍
         desc = root.xpath('//span[@class="detail-content"]/text()') or root.xpath('//span[@class="detail-sketch"]/text()')
         
-        # 播放地址
         play_sources, play_urls = [], []
         for idx, section in enumerate(root.xpath('//div[@class="tab-pane fade in clearfix"]')):
             episodes = [f"{link.xpath('./text()')[0].strip()}${self.full_url(link.xpath('./@href')[0])}" 
