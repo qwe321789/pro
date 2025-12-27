@@ -4,9 +4,9 @@
 #EXTINF:-1 tvg-id="Кино 18+ International" tvg-name="Кино 18+ International" tvg-logo="" group-title="午夜频道",Кино 18+ International
 https://v2.catcast.tv/content/40381/index.m3u8#http://line.hello-ott.xyz/jCp4YyMfXc/nowo2O4ogJ/1451481
 #EXTINF:-1 tvg-id="pigo" tvg-name="pigo" tvg-logo="" group-title="午夜频道",pigo
-http://pull-ws.hndt.com:80/live/0b494db45b21b59e26b245601408b372.flv#https://cf005.paopao.video:443/6FA889EA7A6FC4659B929A38188A059E5BE0BB8B
+http://pull-ws.hndt.com:80/live/6296a5f482f1cbb7b8d73d160a06d12c.flv#https://cf005.paopao.video:443/6FA889EA7A6FC4659B929A38188A059E5BE0BB8B
 #EXTINF:-1 tvg-id="日本映画" tvg-name="日本映画" tvg-logo="" group-title="午夜频道",日本映画
-http://pull-ws.hndt.com:80/live/5f1eea277b3b29fd79d0d8d9d80254a5.flv
+http://pull-ws.hndt.com:80/live/72a9c971a59b9773866ebb28b80bf634.flv
 #EXTINF:-1 tvg-id="东映" tvg-name="东映" tvg-logo="" group-title="午夜频道",东映
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27#http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts#http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts#http://45.235.0.78:80/PLAYBOYTV-HD/index.m3u8#http://190.14.10.19:16000/play/a045/index.m3u8#http://rhsbjv7k.tvclub.xyz/iptv/N8HKZ3DNUQKK2D/6242/index.m3u8
 #EXTINF:-1 tvg-id="驚艷" tvg-name="驚艷" tvg-logo="" group-title="台湾频道",驚艷
@@ -18,25 +18,25 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 #EXTINF:-1 tvg-id="松視2台" tvg-name="松視2台" tvg-logo="" group-title="台湾频道",松視2台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 #EXTINF:-1 tvg-id="极限" tvg-name="极限" tvg-logo="" group-title="台湾频道",极限
-http://hls-pull-wicketpw.speedws.com:80/live/d81c8ebc41f940e819844d787ad47ff9.flv
+http://hls-pull-wicketpw.speedws.com:80/live/9f8699ca838300fdfc05c85b93c6d22c.flv
 #EXTINF:-1 tvg-id="happy" tvg-name="happy" tvg-logo="" group-title="台湾频道",happy
-http://hls-pull-wicketpw.speedws.com:80/live/72135e17873323cfc7b41440df092bbe.flv
+http://hls-pull-wicketpw.speedws.com:80/live/4b3f97f1c9a0ea8c7f31ca7a00ae9422.flv
 #EXTINF:-1 tvg-id="香蕉" tvg-name="香蕉" tvg-logo="" group-title="台湾频道",香蕉
-http://hls-pull-wicketpw.speedws.com:80/live/ca6dffab9346cf8cf4b50c38f4c8142e.flv
+http://hls-pull-wicketpw.speedws.com:80/live/9a1366718c0ee7a81244761ccefb0ab0.flv
 #EXTINF:-1 tvg-id="惊艳" tvg-name="惊艳" tvg-logo="" group-title="台湾频道",惊艳
-http://hls-pull-wicketpw.speedws.com:80/live/a0ba5f9017d54e9551873115b704ea0a.flv
+http://hls-pull-wicketpw.speedws.com:80/live/69d30b94813d66c0292bb3f82e150ae7.flv
 #EXTINF:-1 tvg-id="潘多拉" tvg-name="潘多拉" tvg-logo="" group-title="台湾频道",潘多拉
-http://hls-pull-wicketpw.speedws.com:80/live/cf723f05e81be9a305fd24fdecf482a1.flv
+http://hls-pull-wicketpw.speedws.com:80/live/4119fc79dbb3f1356367936c9df08aed.flv
 #EXTINF:-1 tvg-id="彩虹电影" tvg-name="彩虹电影" tvg-logo="" group-title="台湾频道",彩虹电影
-http://hls-pull-wicketpw.speedws.com:80/live/cfd9066ad87243b04a3036b56cd92cac.flv
+http://hls-pull-wicketpw.speedws.com:80/live/2229eb3447f97c37805fc84fe5428918.flv
 #EXTINF:-1 tvg-id="彩虹k" tvg-name="彩虹k" tvg-logo="" group-title="台湾频道",彩虹k
-http://hls-pull-wicketpw.speedws.com:80/live/5e0828767766f7f385b6610b19b595ce.flv
+http://hls-pull-wicketpw.speedws.com:80/live/ce94d84e32bf87f6fdfe8131eb3a644f.flv
 #EXTINF:-1 tvg-id="彩虹e" tvg-name="彩虹e" tvg-logo="" group-title="台湾频道",彩虹e
-http://hls-pull-wicketpw.speedws.com:80/live/f81005202581159bc23680002413e43f.flv
+http://hls-pull-wicketpw.speedws.com:80/live/3999535711c92ea4c209086ceb313981.flv
 #EXTINF:-1 tvg-id="松视3" tvg-name="松视3" tvg-logo="" group-title="台湾频道",松视3
-http://hls-pull-wicketpw.speedws.com:80/live/bfe0eb9b8d35323c15b5b61ca311aadc.flv
+http://hls-pull-wicketpw.speedws.com:80/live/cd29448a20978b78c36684f2c8b3139b.flv
 #EXTINF:-1 tvg-id="松视1" tvg-name="松视1" tvg-logo="" group-title="台湾频道",松视1
-http://hls-pull-wicketpw.speedws.com:80/live/270e12aaeb143d3471e1346b39231baa.flv
+http://hls-pull-wicketpw.speedws.com:80/live/85ea2f7e99372c867d7210509d0194e6.flv
 #EXTINF:-1 tvg-id="以上为临时源" tvg-name="以上为临时源" tvg-logo="" group-title="台湾频道",以上为临时源
 https://cf005.paopao.video:443/8FD49DF7895AED29D436FF2D3A28828D6FD808FB
 #EXTINF:-1 tvg-id="无信号请重启软件" tvg-name="无信号请重启软件" tvg-logo="" group-title="台湾频道",无信号请重启软件
