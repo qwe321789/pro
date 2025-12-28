@@ -404,22 +404,17 @@
         }
     },
     {
-        "key": "csp_TgDouban",
-        "name": "🥳TG┃豆瓣",
+        "key": "p2t",
+        "name": "🥳盤搜丨网盘",
         "type": 3,
         "api": "csp_TgDouban",
         "searchable": 1,
-        "changeable": 1,
+        "changeable": 0,
         "ext": {
-            "filters": "./json/douban.json",
-            "include": [
-                "HDR",
-                "高码"
-            ],
-            "exclude": [
-                "预告",
-                "花絮"
-            ]
+            "siteUrl": "https://zxbabyps.banye.tech:7777",
+            "count": 20,
+            "channelUsername": "",
+            "filter": "./json/douban.json"
         }
     },
     {
@@ -555,15 +550,6 @@
             "sites": "https://zhizhen.banye.tech:7138",
             "proxy": "noproxy"
         }
-    },
-    {
-        "key": "csp_PanSou",
-        "name": "🥺盘搜┃搜索",
-        "type": 3,
-        "api": "csp_PanSou",
-        "searchable": 1,
-        "changeable": 1,
-        "ext": {}
     },
     {
         "key": "py_路漫漫",
