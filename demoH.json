@@ -741,6 +741,17 @@
         "ext": "./js/NT动漫.js"
     },
     {
+        "key": "播剧网",
+        "name": "🎥播剧网｜采集",
+        "type": 1,
+        "api": "https://www.ysxq.cc/api.php/provide/vod",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120
+    },
+    {
         "key": "http://caiji.dyttzyapi.com",
         "name": "🎥电影天堂｜采集",
         "type": 0,
