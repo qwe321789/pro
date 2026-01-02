@@ -1660,17 +1660,6 @@
         "timeout": 120
     },
     {
-        "key": "py_果冻",
-        "name": "🔞🅿️果冻｜py",
-        "type": 3,
-        "api": "./py/果冻.py",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1,
-        "filterable": 1,
-        "timeout": 120
-    },
-    {
         "key": "py_玩具社区",
         "name": "🔞🅿️玩具社区｜py",
         "type": 3,
