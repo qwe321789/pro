@@ -5,9 +5,19 @@
 "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 "lives": [
     {
+        "name": "📡GTV研究所",
+        "type": 0,
+        "url": "https://www.go-iptv.ggff.net/sub.php?user=jVv0-WSsH_cR2ce6ojmo3Hz-"
+    },
+    {
         "name": "📡自动更新",
         "type": 0,
         "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
+    },
+    {
+        "name": "📡STREAM",
+        "type": 0,
+        "url": "https://www.stream-link.org/playlist.m3u?token=736531a1-0f76-40ee-b36b-0d2fd8d4b4bb&hmac=c9c7a9537413dc3744697baf26b801d3"
     },
     {
         "name": "📡冰茶TV直播",
@@ -17,35 +27,9 @@
         "ua": "bingcha/1.1(mianfeifenxiang)"
     },
     {
-        "name": "📡zhi35",
-        "type": 0,
-        "url": "https://live.zhi35.com/iptv.m3u"
-    },
-    {
-        "name": "📡IPTV研究所",
-        "type": 0,
-        "url": "https://iptv.mydiver.eu.org/get.php?username=tg_rfcmmfdg&password=4xvwvt2dzmpm&type=m3u_plus"
-    },
-    {
-        "name": "📡SMT",
-        "type": 0,
-        "url": "https://tmxk.pp.ua/smart-cn.m3u",
-        "playerType": 2
-    },
-    {
         "name": "📡suxuang",
         "type": 0,
         "url": "https://bit.ly/suxuang-v4"
-    },
-    {
-        "name": "📡jackTV",
-        "type": 0,
-        "url": "https://php.946985.filegear-sg.me/jackTV.m3u"
-    },
-    {
-        "name": "📡益力多",
-        "type": 0,
-        "url": "https://tv.iill.top/m3u/Gather"
     },
     {
         "name": "📡BXTV",
@@ -63,16 +47,6 @@
         "url": "https://188766.xyz/itv"
     },
     {
-        "name": "📡风云TV",
-        "type": 0,
-        "url": "http://iptv.4666888.xyz/FYTV.m3u"
-    },
-    {
-        "name": "📡天命人直播",
-        "type": 0,
-        "url": "http://ys.my.to/i/?T=HK"
-    },
-    {
         "name": "📡裤佬直播",
         "type": 0,
         "url": "https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
@@ -83,11 +57,6 @@
         "name": "📡裤佬网络",
         "type": 0,
         "url": "https://upld.zone.id/uploads/q9iq9e5iq/lvse.txt"
-    },
-    {
-        "name": "📡169全球直播",
-        "type": 0,
-        "url": "https://miracle.hz.cz/live/169_latest.txt"
     },
     {
         "name": "📡IPV4",
@@ -111,66 +80,6 @@
         "epg": "http://epg.51zmt.top:8000/e.xml",
         "logo": "https://epg.112114.xyz/logo/{name}.png",
         "timeout": 10
-    },
-    {
-        "name": "📡Mursor",
-        "type": 0,
-        "url": "https://sub.ottiptv.cc/iptv.m3u",
-        "epg": "http://epg.51zmt.top:8000/e.xml",
-        "ua": "okHttp/Mod-1.2.0",
-        "timeout": 10,
-        "playerType": 2
-    },
-    {
-        "name": "📡sd-live",
-        "type": 0,
-        "url": "https://gitee.com/sd-live/zb/raw/master/mySJ",
-        "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-        "name": "📡范明明",
-        "type": 0,
-        "url": "https://live.fanmingming.cn/tv/m3u/ipv6.m3u",
-        "playerType": 2,
-        "timeout": 10
-    },
-    {
-        "name": "📡ZBDS",
-        "type": 0,
-        "url": "https://live.zbds.org/tv/iptv4.txt",
-        "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-        "logo": "https://epg.iill.top/logo/{name}.png",
-        "timeout": 10,
-        "playerType": 2
-    },
-    {
-        "name": "📡肥羊直播",
-        "type": 0,
-        "ua": "okHttp/Mod-1.4.0.0",
-        "url": "https://live.ottiptv.cc/iptv.m3u?userid=1080351621&sign=70a2e2c9e5767e23a2a99274329cba1bfc506d1dcd5caaea2fdfea1425983f2cd342932e5e0a304ed182f85b8f793db1f1f1ea7e37a9fff1446ea97ca2456a38dfdc84ea3ac953&auth_token=5a90de78b997eec26b1a962bf65a00f1",
-        "epg": "https://epg.cdn.loc.cc?ch={name}&date={date}",
-        "logo": "https://epg.112114.xyz/logo/{name}.png"
-    },
-    {
-        "name": "📡China TV",
-        "type": 0,
-        "url": "https://live.tv.darwinchow.com/sub/02RtNqhKGizc48p6Wph9sylf41YOUW"
-    },
-    {
-        "name": "📡itvlist",
-        "type": 0,
-        "url": "https://bit.ly/itvlist"
-    },
-    {
-        "name": "📡南风直播",
-        "type": 0,
-        "url": "https://raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/live.txt"
-    },
-    {
-        "name": "📡榴芒电视",
-        "type": 0,
-        "url": "http://106.53.99.30/2025.txt"
     },
     {
         "name": "🔞成人花园",
@@ -2961,6 +2870,7 @@
     }
 ],
 "proxy": [
+    "stream-link.org",
     "raw.githubusercontent.com",
     "googlevideo.com",
     "googleapis.com",
