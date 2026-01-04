@@ -519,6 +519,17 @@
         "ext": "0"
     },
     {
+        "key": "py_独播库",
+        "name": "🅿️独播库｜py",
+        "type": 3,
+        "api": "./py/独播库.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120
+    },
+    {
         "key": "py_路漫漫",
         "name": "🅿️路漫漫｜py",
         "type": 3,
@@ -556,17 +567,6 @@
         "name": "🅿️樱花动漫｜py",
         "type": 3,
         "api": "./py/樱花动漫.py",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1,
-        "filterable": 1,
-        "timeout": 120
-    },
-    {
-        "key": "py_独播库",
-        "name": "🅿️独播库｜py",
-        "type": 3,
-        "api": "./py/独播库.py",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
