@@ -324,17 +324,18 @@
         }
     },
     {
-        "key": "p2t",
-        "name": "🥳盤搜丨网盘",
+        "key": "csp_TgDouban",
+        "name": "🥳TG┃豆瓣",
         "type": 3,
         "api": "csp_TgDouban",
         "searchable": 1,
-        "changeable": 0,
+        "changeable": 1,
+        "timeout": 60,
         "ext": {
-            "siteUrl": "https://zxbabyps.banye.tech:7777",
+            "siteUrl": "https://p2t.252035.xyz",
             "count": 20,
             "channelUsername": "",
-            "filter": "./json/douban.json"
+            "filters": "./json/douban.json"
         }
     },
     {
