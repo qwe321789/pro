@@ -1583,6 +1583,17 @@
         "timeout": 120
     },
     {
+        "key": "py_五月天",
+        "name": "🔞🅿️五月天｜py",
+        "type": 3,
+        "api": "./py/五月天.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120
+    },
+    {
         "key": "py_玩具社区",
         "name": "🔞🅿️玩具社区｜py",
         "type": 3,
