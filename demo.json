@@ -87,24 +87,6 @@
         "timeout": 60
     },
     {
-        "key": "csp_Panta91",
-        "name": "🐹盘Ta┃YD",
-        "type": 3,
-        "api": "csp_Panta91",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1,
-        "timeout": 60,
-        "style": {
-            "type": "list"
-        },
-        "ext": {
-            "sites": "https://www.91panta.cn",
-            "proxy": "noproxy",
-            "classes": "./json/panta.json"
-        }
-    },
-    {
         "key": "csp_SeedHub",
         "name": "🎳Seed┃Hub",
         "type": 3,
