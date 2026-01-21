@@ -1006,7 +1006,7 @@
         }
     },
     {
-        "key": "漫蛙动漫",
+        "key": "https://www.su7.la",
         "name": "💕漫蛙动漫┃多线",
         "type": 3,
         "api": "csp_XBPQ",
@@ -1019,9 +1019,9 @@
         "ext": {
             "请求头": "手机",
             "免嗅探": "开",
-            "分类数组": "<ul class=\"stui-vodlist clearfix\">&&</a></h4></li>",
-            "分类url": "https://www.mwdm.cc/list/{cateId}-{catePg}/",
-            "分类": "国漫$2#日漫$3#番漫$1#其他$4"
+            "分类数组": "thumb_img lazy\">&&</div>",
+            "分类url": "https://www.mwju.cc/cate/",
+            "分类": "国产$1#日韩$2#欧美$3#港台$4#动漫$5#里番$6"
         }
     },
     {
@@ -1656,10 +1656,10 @@
         "timeout": 120
     },
     {
-        "key": "py_玩具社区",
-        "name": "🔞🅿️玩具社区｜py",
+        "key": "py_KanAV",
+        "name": "🔞🅿️KanAV｜py",
         "type": 3,
-        "api": "./py/玩具社区.py",
+        "api": "./py/KanAV.py",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
@@ -1908,6 +1908,17 @@
             "http": "http://127.0.0.1:20172",
             "https": "http://127.0.0.1:20172"
         }
+    },
+    {
+        "key": "py_玩具社区",
+        "name": "🔞🅿️玩具社区｜py",
+        "type": 3,
+        "api": "./py/玩具社区.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120
     },
     {
         "key": "drpy_js_JAVXX",
