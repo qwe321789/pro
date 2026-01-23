@@ -1664,6 +1664,17 @@
         "timeout": 120
     },
     {
+        "key": "py_4015视频",
+        "name": "🔞🅿️4015视频｜py",
+        "type": 3,
+        "api": "./py/4015视频.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120
+    },
+    {
         "key": "py_菠萝七区",
         "name": "🔞🅿️菠萝七区｜py",
         "type": 3,
