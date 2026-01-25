@@ -5,22 +5,16 @@
 "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 "lives": [
     {
-        "name": "📡GTV研究所",
-        "type": 0,
-        "playerType": 2,
-        "url": "https://www.go-iptv.ggff.net/sub.php?user=jVv0-WSsH_cR2ce6ojmo3Hz-"
-    },
-    {
         "name": "📡自动更新",
         "type": 0,
         "playerType": 2,
         "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u"
     },
     {
-        "name": "📡STREAM",
+        "name": "📡GTV研究所",
         "type": 0,
         "playerType": 2,
-        "url": "https://www.stream-link.org/playlist.m3u?token=736531a1-0f76-40ee-b36b-0d2fd8d4b4bb&hmac=c9c7a9537413dc3744697baf26b801d3"
+        "url": "https://www.go-iptv.ggff.net/sub.php?user=jVv0-WSsH_cR2ce6ojmo3Hz-"
     },
     {
         "name": "📡冰茶TV直播",
@@ -33,6 +27,12 @@
         "type": 0,
         "playerType": 2,
         "url": "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1"
+    },
+    {
+        "name": "📡STREAM",
+        "type": 0,
+        "playerType": 2,
+        "url": "https://www.stream-link.org/playlist.m3u?token=736531a1-0f76-40ee-b36b-0d2fd8d4b4bb&hmac=c9c7a9537413dc3744697baf26b801d3"
     },
     {
         "name": "📡中国大陆",
