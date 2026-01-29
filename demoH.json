@@ -94,7 +94,7 @@
         "ext": "DyoqWQInJUMuGFcBCgtNXAQ4Og8HOSNECiVBHi0YVUg="
     },
     {
-        "key": "至臻网盘",
+        "key": "臻彩网盘",
         "name": "😍臻彩丨免扫码",
         "type": 3,
         "api": "csp_HBNT4",
@@ -250,18 +250,6 @@
         "changeable": 1
     },
     {
-        "key": "csp_Jianpian",
-        "name": "🥺荐片┃VOX",
-        "type": 3,
-        "api": "csp_Jianpian",
-        "searchable": 1,
-        "changeable": 1,
-        "ext": {
-            "filters": "./json/jianpian.json",
-            "sites": "https://api.ztcgi.com"
-        }
-    },
-    {
         "key": "csp_Guazi",
         "name": "😳瓜子┃优质",
         "type": 3,
@@ -311,233 +299,6 @@
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 0
-    },
-    {
-        "key": "粉象世界",
-        "name": "🐘粉象┃APP",
-        "type": 3,
-        "changeable": 0,
-        "api": "csp_Appfox",
-        "ext": {
-            "host": "http://host1.sopython.top/host.json",
-            "ver": 2
-        }
-    },
-    {
-        "key": "搜一下APP",
-        "name": "🥌搜搜┃APP",
-        "type": 3,
-        "api": "csp_Appfox",
-        "ext": "https://www.zjcvod.com"
-    },
-    {
-        "key": "火花影院",
-        "name": "🔥火花┃APP",
-        "type": 3,
-        "changeable": 0,
-        "api": "csp_Appfox",
-        "ext": {
-            "host": "http://huohua.itcxo.cn"
-        }
-    },
-    {
-        "key": "气球影视",
-        "name": "🎈气球｜APP",
-        "type": 3,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "https://vv.229d.cn",
-            "datakey": "8888888888888888"
-        }
-    },
-    {
-        "key": "金牌影院",
-        "name": "🥇金牌┃APP",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "https://dtqj.ggtvb.cc/dtjp.txt",
-            "datakey": "eecbio48dsq131ee",
-            "api": "2"
-        }
-    },
-    {
-        "key": "花小猪影视",
-        "name": "🐷花猪｜App",
-        "type": 3,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/zhuzhuxia.txt",
-            "datakey": "j8sr6d93yp49db3p",
-            "ua": "okhttp/3.10.0",
-            "api": "2"
-        }
-    },
-    {
-        "key": "奇奇视频",
-        "name": "🚵奇奇｜APP",
-        "type": 3,
-        "api": "csp_AppGet",
-        "ext": {
-            "api": "2",
-            "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/a.txt",
-            "datakey": "123456789abcdefg"
-        }
-    },
-    {
-        "key": "剧梦屋",
-        "name": "🙃剧梦｜APP",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "https://www.jumengwu.com",
-            "datakey": "1f0a873caf2550a5"
-        }
-    },
-    {
-        "key": "火狐影视",
-        "name": "🦊火狐｜APP",
-        "type": 3,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "http://122.114.171.79:568/huohushipin.txt",
-            "datakey": "huohushipingetap"
-        }
-    },
-    {
-        "key": "mifun",
-        "name": "🐸mifun｜APP",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "https://miget-1313189639.cos.ap-guangzhou.myqcloud.com/mifun.txt",
-            "datakey": "GETMIFUNGEIMIFUN"
-        }
-    },
-    {
-        "key": "仓鼠4K",
-        "name": "🤑仓鼠｜APP",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "https://hk440cms.cs4k.top",
-            "datakey": "fL7sY4zN4kB3pG4p",
-            "api": 2
-        }
-    },
-    {
-        "key": "魔方4K",
-        "name": "🎲魔方┃APP",
-        "type": 3,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "https://snysw.xyz/mf4kzs327.txt",
-            "datakey": "1234567887654321"
-        }
-    },
-    {
-        "key": "云云",
-        "name": "☁️云云┃APP",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt",
-            "datakey": "staraugust123456",
-            "api": 2
-        }
-    },
-    {
-        "key": "次元方舟",
-        "name": "🛸方舟┃APP",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "https://www.cyfz.vip",
-            "datakey": "e72cdfd629e8895d"
-        }
-    },
-    {
-        "key": "番薯动漫",
-        "name": "🌳番薯┃APP",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "https://new.app.bytegooty.com",
-            "datakey": "N4yj7l7xKxHF4*gz"
-        }
-    },
-    {
-        "key": "优优兔",
-        "name": "🐁优兔┃APP",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
-            "datakey": "UrWKPnmQWJA8AQzd",
-            "api": "2"
-        }
-    },
-    {
-        "key": "王子4K",
-        "name": "🙆王子┃APP",
-        "type": 3,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "https://app.95112475.xyz",
-            "datakey": "5a9w6x58dsq6z3a6"
-        }
-    },
-    {
-        "key": "八天",
-        "name": "🏂八天┃APP",
-        "type": 3,
-        "searchable": 1,
-        "changeable": 1,
-        "api": "csp_AppGet",
-        "ext": {
-            "host": "https://dy.8ttv.cn/",
-            "datakey": "1111111111111111"
-        }
-    },
-    {
-        "key": "剧下饭",
-        "name": "🍚剧集┃下饭",
-        "type": 3,
-        "changeable": 0,
-        "api": "csp_AppYsV2",
-        "ext": {
-            "api": "http://dmmax.juxiafan.com/icciu_api.php/v1.vod",
-            "apisignkey": "lvdoutv-1.0.0"
-        }
-    },
-    {
-        "key": "永恒视频",
-        "name": "🐁永恒┃APP",
-        "type": 3,
-        "api": "csp_Hmys",
-        "ext": {
-            "host": "https://dy.oogsy.com",
-            "app_id": "yongheng",
-            "deviceid": "92ec8baead8e788b",
-            "versionCode": "10000",
-            "UMENG_CHANNEL": "zhuan"
-        }
     },
     {
         "key": "csp_Bili",
@@ -1130,25 +891,6 @@
         }
     },
     {
-        "key": "https://www.su7.la",
-        "name": "💕漫蛙动漫┃多线",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "jar": "./jar/xbpq.jar",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1,
-        "filterable": 1,
-        "timeout": 120,
-        "ext": {
-            "请求头": "手机",
-            "免嗅探": "开",
-            "分类数组": "bm-box\">&&</div></a>",
-            "分类url": "https://www.mwju.cc/cate/",
-            "分类": "国产$1#日韩$2#欧美$3#港台$4#动漫$5#里番$6"
-        }
-    },
-    {
         "key": "http://www.qiyoudy.info",
         "name": "💕奇优影院┃多线",
         "type": 3,
@@ -1605,17 +1347,6 @@
             "分类url": "https://www.wuwuys.com/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak",
             "分类": "动漫$4#电影$1#电视剧$2#综艺$3"
         }
-    },
-    {
-        "key": "HGxmzb",
-        "name": "📡韩国丨直播",
-        "type": 3,
-        "api": "./py/韩国直播.py",
-        "searchable": 1,
-        "quickSearch": 1,
-        "changeable": 1,
-        "filterable": 1,
-        "timeout": 120
     },
     {
         "key": "啊哈DJ网",
