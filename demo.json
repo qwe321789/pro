@@ -1364,12 +1364,37 @@
         }
     },
     {
-        "key": "啊哈DJ网",
-        "name": "🎵啊哈┃DJ",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "ext": "./xb/啊哈DJ网.json",
-        "jar": "./jar/xbpq.jar"
+        "key": "哔哩音乐",
+        "name": "🎵哔哩丨音乐",
+        "type": 4,
+        "api": "https://catbox.n13.club/t9/bili.php?id=bMTV",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120
+    },
+    {
+        "key": "啊哈DJ",
+        "name": "🎵啊哈丨DJ",
+        "type": 4,
+        "api": "https://catbox.n13.club/t9/aha.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120
+    },
+    {
+        "key": "悠悠DJ",
+        "name": "🎵悠悠丨DJ",
+        "type": 4,
+        "api": "https://catbox.n13.club/t9/djuu.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120
     },
     {
         "key": "py_深港DJ",
