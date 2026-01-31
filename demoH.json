@@ -74,14 +74,6 @@
         "changeable": 0
     },
     {
-        "key": "木偶免扫",
-        "name": "😍木偶丨免扫码",
-        "type": 3,
-        "api": "csp_HBNT4",
-        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;f2cf5b9cb97c1e00d893511777c3abe1",
-        "ext": "DyoqWQIrBwMuGytIIxtMWy8FMQwtNStECyoUXy0YVUg="
-    },
-    {
         "key": "移动免扫",
         "name": "😍移动丨免扫码",
         "type": 3,
@@ -95,22 +87,6 @@
         "ext": {
             "sp": "Panta"
         }
-    },
-    {
-        "key": "多多免扫",
-        "name": "😍多多丨免扫码",
-        "type": 3,
-        "api": "csp_HBNT4",
-        "jar": "http://154.201.83.69:25252/仅供测试/custom_spider.jar;md5;7106a041705c8e0e43ec9cbf0d131dcd",
-        "ext": "DyoqWQInJUMuGFcBCgtNXAQ4Og8HOSNECiVBHi0YVUg="
-    },
-    {
-        "key": "臻彩免扫",
-        "name": "😍臻彩丨免扫码",
-        "type": 3,
-        "api": "csp_HBNT4",
-        "jar": "http://154.201.83.69:25252/仅供测试/custom_spider.jar;md5;7106a041705c8e0e43ec9cbf0d131dcd",
-        "ext": "DyoqWQIrBwMuUgZBNzVBHQA7MUcsCFtcCjVMVA=="
     },
     {
         "key": "csp_PanShareQuark",

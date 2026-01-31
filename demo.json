@@ -62,14 +62,6 @@
         "changeable": 0
     },
     {
-        "key": "木偶免扫",
-        "name": "😍木偶丨免扫码",
-        "type": 3,
-        "api": "csp_HBNT4",
-        "jar": "http://103.45.162.207:25252/仅供测试/custom_spider.jar;md5;f2cf5b9cb97c1e00d893511777c3abe1",
-        "ext": "DyoqWQIrBwMuGytIIxtMWy8FMQwtNStECyoUXy0YVUg="
-    },
-    {
         "key": "移动免扫",
         "name": "😍移动丨免扫码",
         "type": 3,
@@ -83,22 +75,6 @@
         "ext": {
             "sp": "Panta"
         }
-    },
-    {
-        "key": "多多免扫",
-        "name": "😍多多丨免扫码",
-        "type": 3,
-        "api": "csp_HBNT4",
-        "jar": "http://154.201.83.69:25252/仅供测试/custom_spider.jar;md5;7106a041705c8e0e43ec9cbf0d131dcd",
-        "ext": "DyoqWQInJUMuGFcBCgtNXAQ4Og8HOSNECiVBHi0YVUg="
-    },
-    {
-        "key": "臻彩免扫",
-        "name": "😍臻彩丨免扫码",
-        "type": 3,
-        "api": "csp_HBNT4",
-        "jar": "http://154.201.83.69:25252/仅供测试/custom_spider.jar;md5;7106a041705c8e0e43ec9cbf0d131dcd",
-        "ext": "DyoqWQIrBwMuUgZBNzVBHQA7MUcsCFtcCjVMVA=="
     },
     {
         "key": "csp_PanShareQuark",
@@ -356,7 +332,7 @@
         "playerType": 2,
         "ext": {
             "json": "./json/bili.json",
-            "cookie": "SESSDATA=a0856a49%2C1778072164%2C67863%2Ab2CjBMWddMQeEOEER1cURy-uqSbEnqHfBVbdCtQ-VC_5LsbZ7PtWoNlLhyPF0kGPucJ5wSVmVlRU40Q25paDF6azZSOVd6aHlPMzRmdTdqblhzVmctNzBySXFydm9mMUhYcU0zQktWU2toVWlwVjF4SnRIYUE0d0pVX3NCdTNLMzEyWml4QzBiRC1RIIEC; bili_jct=239a0b314be4667a13d90f803952dace; DedeUserID=9628400; DedeUserID__ckMd5=196cad8ada71a3a6; sid=4vee908l; browser_resolution=1280-2389; CURRENT_FNVAL=16; b_lsid=42875CAB_19AB50AEF4C; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjQyMzMxODcsImlhdCI6MTc2Mzk3MzkyNywicGx0IjotMX0.16TeGLfze2FI9GOA5BujTsvEElARMxHEne3EQdkjAv4; bili_ticket_expires=1764233127"
+            "cookie": ""
         },
         "style": {
             "type": "rect",
