@@ -56,13 +56,13 @@
         "name": "🔞台湾直播",
         "type": 0,
         "playerType": 2,
-        "url": "./1.m3u"
+        "url": "./0.m3u"
     },
     {
         "name": "🔞秘密花园",
         "type": 0,
         "playerType": 2,
-        "url": "./0.m3u"
+        "url": "./1.m3u"
     }
 ],
 "sites": [
