@@ -2,9 +2,9 @@ var rule = {
     title: "路漫漫",
     //https://i.qg50.com
     //https://ho9.cc/lmm
-    host: "https://www.lmm50.com",
+    host: "https://dm.g916.com",
     url: "/vod/show/id/fyclassfyfilter.html",
-    searchUrl: "https://www.lmm50.com/vod/search/page/fypage/wd/**.html",
+    searchUrl: "https://dm.g916.com/vod/search/page/fypage/wd/**.html",
     searchable: 2,
     quickSearch: 0,
     filterable: 1,
