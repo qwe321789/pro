@@ -386,6 +386,17 @@
         "timeout": 60
     },
     {
+        "key": "咪咕PHP",
+        "name": "❤️咪咕┃PHP",
+        "type": 4,
+        "api": "http://rihou.cc:88/zb/直播转点播.php",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120
+    },
+    {
         "key": "PY聚合",
         "name": "❤️PY丨聚合",
         "type": 4,
@@ -533,6 +544,17 @@
         "name": "🅿️漫蛙动漫｜py",
         "type": 3,
         "api": "./py/漫蛙动漫.py",
+        "searchable": 1,
+        "quickSearch": 1,
+        "changeable": 1,
+        "filterable": 1,
+        "timeout": 120
+    },
+    {
+        "key": "py_123TV",
+        "name": "🅿️123TV｜py",
+        "type": 3,
+        "api": "./py/123TV.py",
         "searchable": 1,
         "quickSearch": 1,
         "changeable": 1,
